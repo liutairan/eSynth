@@ -1,0 +1,1920 @@
+r-test-rigid1.sdf
+MolWt = 133.19
+HBD = 0
+HBA1 = 1
+logP = 1.9604
+
+r-test-rigid2.sdf
+MolWt = 118.136
+HBD = 1
+HBA1 = 1
+logP = 1.5629
+
+r-test-rigid1.sdf
+MolWt = 133.19
+HBD = 0
+HBA1 = 1
+logP = 1.9604
+
+r-test-rigid2.sdf
+MolWt = 118.136
+HBD = 1
+HBA1 = 1
+logP = 1.5629
+
+l-test-linker1.sdf
+MolWt = 31.0571
+HBD = 1
+HBA1 = 1
+logP = 0.2752
+
+l-test-linker2.sdf
+MolWt = 31.0571
+HBD = 1
+HBA1 = 1
+logP = 0.2752
+
+l-test-linker1.sdf
+MolWt = 31.0571
+HBD = 1
+HBA1 = 1
+logP = 0.2752
+
+l-test-linker2.sdf
+MolWt = 31.0571
+HBD = 1
+HBA1 = 1
+logP = 0.2752
+
+r-test-rigid1.sdf
+MolWt = 133.19
+HBD = 0
+HBA1 = 1
+logP = 1.9604
+
+r-test-rigid2.sdf
+MolWt = 118.136
+HBD = 1
+HBA1 = 1
+logP = 1.5629
+
+r-test-rigid1.sdf
+MolWt = 133.19
+HBD = 0
+HBA1 = 1
+logP = 1.9604
+
+r-test-rigid2.sdf
+MolWt = 118.136
+HBD = 1
+HBA1 = 1
+logP = 1.5629
+
+r-test-rigid1.sdf
+MolWt = 133.19
+HBD = 0
+HBA1 = 1
+logP = 1.9604
+
+r-test-rigid2.sdf
+MolWt = 118.136
+HBD = 1
+HBA1 = 1
+logP = 1.5629
+
+l-test-linker1.sdf
+MolWt = 31.0571
+HBD = 1
+HBA1 = 1
+logP = 0.2752
+
+l-test-linker2.sdf
+MolWt = 31.0571
+HBD = 1
+HBA1 = 1
+logP = 0.2752
+
+l-test-linker1.sdf
+MolWt = 31.0571
+HBD = 1
+HBA1 = 1
+logP = 0.2752
+
+l-test-linker1.sdf
+MolWt = 31.0571
+HBD = 1
+HBA1 = 1
+logP = 0.2752
+
+l-test-linker2.sdf
+MolWt = 31.0571
+HBD = 1
+HBA1 = 1
+logP = 0.2752
+
+r-test-rigid1.sdf
+MolWt = 133.19
+HBD = 0
+HBA1 = 1
+logP = 1.9604
+
+r-test-rigid2.sdf
+MolWt = 118.136
+HBD = 1
+HBA1 = 1
+logP = 1.5629
+
+l-test-linker1.sdf
+MolWt = 31.0571
+HBD = 1
+HBA1 = 1
+logP = 0.2752
+
+l-test-linker2.sdf
+MolWt = 31.0571
+HBD = 1
+HBA1 = 1
+logP = 0.2752
+
+l-test-linker1.sdf
+MolWt = 31.0571
+HBD = 1
+HBA1 = 1
+logP = 0.2752
+
+l-test-linker2.sdf
+MolWt = 31.0571
+HBD = 1
+HBA1 = 1
+logP = 0.2752
+
+r-test-rigid1.sdf
+MolWt = 133.19
+HBD = 0
+HBA1 = 1
+logP = 1.9604
+
+l-test-linker1.sdf
+MolWt = 31.0571
+HBD = 1
+HBA1 = 1
+logP = 0.2752
+
+l-test-linker2.sdf
+MolWt = 31.0571
+HBD = 1
+HBA1 = 1
+logP = 0.2752
+
+r-test-rigid1.sdf
+MolWt = 133.19
+HBD = 0
+HBA1 = 1
+logP = 1.9604
+
+r-test-rigid2.sdf
+MolWt = 118.136
+HBD = 1
+HBA1 = 1
+logP = 1.5629
+
+l-test-linker1.sdf
+MolWt = 31.0571
+HBD = 1
+HBA1 = 1
+logP = 0.2752
+
+l-test-linker2.sdf
+MolWt = 31.0571
+HBD = 1
+HBA1 = 1
+logP = 0.2752
+
+l-test-linker1.sdf
+MolWt = 31.0571
+HBD = 1
+HBA1 = 1
+logP = 0.2752
+
+l-test-linker2.sdf
+MolWt = 31.0571
+HBD = 1
+HBA1 = 1
+logP = 0.2752
+
+b-test-rigid1.sdf
+MolWt = 133.19
+HBD = 0
+HBA1 = 1
+logP = 1.9604
+
+b-test-rigid2.sdf
+MolWt = 118.136
+HBD = 1
+HBA1 = 1
+logP = 1.5629
+
+l-test-linker1.sdf
+MolWt = 31.0571
+HBD = 1
+HBA1 = 1
+logP = 0.2752
+
+l-test-linker2.sdf
+MolWt = 31.0571
+HBD = 1
+HBA1 = 1
+logP = 0.2752
+
+b-test-rigid1.sdf
+MolWt = 133.19
+HBD = 0
+HBA1 = 1
+logP = 1.9604
+
+b-test-rigid2.sdf
+MolWt = 118.136
+HBD = 1
+HBA1 = 1
+logP = 1.5629
+
+l-test-linker1.sdf
+MolWt = 31.0571
+HBD = 1
+HBA1 = 1
+logP = 0.2752
+
+l-test-linker2.sdf
+MolWt = 31.0571
+HBD = 1
+HBA1 = 1
+logP = 0.2752
+
+b-test-rigid1.sdf
+MolWt = 133.19
+HBD = 0
+HBA1 = 1
+logP = 1.9604
+
+l-test-linker1.sdf
+MolWt = 31.0571
+HBD = 1
+HBA1 = 1
+logP = 0.2752
+
+l-test-linker2.sdf
+MolWt = 31.0571
+HBD = 1
+HBA1 = 1
+logP = 0.2752
+
+b-test-rigid1.sdf
+MolWt = 133.19
+HBD = 0
+HBA1 = 1
+logP = 1.9604
+
+l-test-linker1.sdf
+MolWt = 31.0571
+HBD = 1
+HBA1 = 1
+logP = 0.2752
+
+l-test-linker2.sdf
+MolWt = 31.0571
+HBD = 1
+HBA1 = 1
+logP = 0.2752
+
+Btest-rigid1.sdf
+MolWt = 133.19
+HBD = 0
+HBA1 = 1
+logP = 1.9604
+
+b-test-rigid2.sdf
+MolWt = 118.136
+HBD = 1
+HBA1 = 1
+logP = 1.5629
+
+l-test-linker1.sdf
+MolWt = 31.0571
+HBD = 1
+HBA1 = 1
+logP = 0.2752
+
+l-test-linker2.sdf
+MolWt = 31.0571
+HBD = 1
+HBA1 = 1
+logP = 0.2752
+
+Btest-rigid1.sdf
+MolWt = 133.19
+HBD = 0
+HBA1 = 1
+logP = 1.9604
+
+b-test-rigid2.sdf
+MolWt = 118.136
+HBD = 1
+HBA1 = 1
+logP = 1.5629
+
+LinkerUnique.sdf
+MolWt = 60.0553
+HBD = 2
+HBA1 = 3
+logP = 0.4244
+
+LinkerUnique.sdf
+MolWt = 18.0153
+HBD = 1
+HBA1 = 1
+logP = -0.0643
+
+LinkerUnique.sdf
+MolWt = 32.0419
+HBD = 1
+HBA1 = 1
+logP = -0.3915
+
+LinkerUnique.sdf
+MolWt = 0
+HBD = 0
+HBA1 = 0
+logP = 0
+
+LinkerUnique.sdf
+MolWt = 73.0938
+HBD = 1
+HBA1 = 2
+logP = 0.7791
+
+LinkerUnique.sdf
+MolWt = 17.0305
+HBD = 1
+HBA1 = 1
+logP = 0.3239
+
+LinkerUnique.sdf
+MolWt = 17.0305
+HBD = 1
+HBA1 = 1
+logP = 0.3239
+
+BrickUnique.sdf
+MolWt = 86.1356
+HBD = 2
+HBA1 = 2
+logP = -0.1632
+
+BrickUnique.sdf
+MolWt = 143.144
+HBD = 0
+HBA1 = 5
+logP = 0.7954
+
+BrickUnique.sdf
+MolWt = 190.202
+HBD = 0
+HBA1 = 4
+logP = 1.1353
+
+LinkerUnique.sdf
+MolWt = 60.0553
+HBD = 2
+HBA1 = 3
+logP = 0.4244
+
+LinkerUnique.sdf
+MolWt = 18.0153
+HBD = 1
+HBA1 = 1
+logP = -0.0643
+
+LinkerUnique.sdf
+MolWt = 32.0419
+HBD = 1
+HBA1 = 1
+logP = -0.3915
+
+LinkerUnique.sdf
+MolWt = 0
+HBD = 0
+HBA1 = 0
+logP = 0
+
+LinkerUnique.sdf
+MolWt = 73.0938
+HBD = 1
+HBA1 = 2
+logP = 0.7791
+
+LinkerUnique.sdf
+MolWt = 17.0305
+HBD = 1
+HBA1 = 1
+logP = 0.3239
+
+LinkerUnique.sdf
+MolWt = 17.0305
+HBD = 1
+HBA1 = 1
+logP = 0.3239
+
+LinkerUnique.sdf
+MolWt = 60.0553
+HBD = 2
+HBA1 = 3
+logP = 0.4244
+
+LinkerUnique.sdf
+MolWt = 18.0153
+HBD = 1
+HBA1 = 1
+logP = -0.0643
+
+LinkerUnique.sdf
+MolWt = 32.0419
+HBD = 1
+HBA1 = 1
+logP = -0.3915
+
+LinkerUnique.sdf
+MolWt = 0
+HBD = 0
+HBA1 = 0
+logP = 0
+
+LinkerUnique.sdf
+MolWt = 73.0938
+HBD = 1
+HBA1 = 2
+logP = 0.7791
+
+LinkerUnique.sdf
+MolWt = 17.0305
+HBD = 1
+HBA1 = 1
+logP = 0.3239
+
+LinkerUnique.sdf
+MolWt = 17.0305
+HBD = 1
+HBA1 = 1
+logP = 0.3239
+
+b-brick-unique.sdf
+MolWt = 86.1356
+HBD = 2
+HBA1 = 2
+logP = -0.1632
+
+b-brick-unique.sdf
+MolWt = 143.144
+HBD = 0
+HBA1 = 5
+logP = 0.7954
+
+b-brick-unique.sdf
+MolWt = 190.202
+HBD = 0
+HBA1 = 4
+logP = 1.1353
+
+l-test-linker1.sdf
+MolWt = 31.0571
+HBD = 1
+HBA1 = 1
+logP = 0.2752
+
+LinkerUnique.sdf
+MolWt = 60.0553
+HBD = 2
+HBA1 = 3
+logP = 0.4244
+
+LinkerUnique.sdf
+MolWt = 18.0153
+HBD = 1
+HBA1 = 1
+logP = -0.0643
+
+LinkerUnique.sdf
+MolWt = 32.0419
+HBD = 1
+HBA1 = 1
+logP = -0.3915
+
+LinkerUnique.sdf
+MolWt = 0
+HBD = 0
+HBA1 = 0
+logP = 0
+
+LinkerUnique.sdf
+MolWt = 73.0938
+HBD = 1
+HBA1 = 2
+logP = 0.7791
+
+LinkerUnique.sdf
+MolWt = 17.0305
+HBD = 1
+HBA1 = 1
+logP = 0.3239
+
+LinkerUnique.sdf
+MolWt = 17.0305
+HBD = 1
+HBA1 = 1
+logP = 0.3239
+
+LinkerUnique.sdf
+MolWt = 60.0553
+HBD = 2
+HBA1 = 3
+logP = 0.4244
+
+LinkerUnique.sdf
+MolWt = 18.0153
+HBD = 1
+HBA1 = 1
+logP = -0.0643
+
+LinkerUnique.sdf
+MolWt = 32.0419
+HBD = 1
+HBA1 = 1
+logP = -0.3915
+
+LinkerUnique.sdf
+MolWt = 0
+HBD = 0
+HBA1 = 0
+logP = 0
+
+LinkerUnique.sdf
+MolWt = 73.0938
+HBD = 1
+HBA1 = 2
+logP = 0.7791
+
+LinkerUnique.sdf
+MolWt = 17.0305
+HBD = 1
+HBA1 = 1
+logP = 0.3239
+
+LinkerUnique.sdf
+MolWt = 17.0305
+HBD = 1
+HBA1 = 1
+logP = 0.3239
+
+LinkerUnique.sdf
+MolWt = 60.0553
+HBD = 2
+HBA1 = 3
+logP = 0.4244
+
+LinkerUnique.sdf
+MolWt = 18.0153
+HBD = 1
+HBA1 = 1
+logP = -0.0643
+
+LinkerUnique.sdf
+MolWt = 32.0419
+HBD = 1
+HBA1 = 1
+logP = -0.3915
+
+LinkerUnique.sdf
+MolWt = 0
+HBD = 0
+HBA1 = 0
+logP = 0
+
+LinkerUnique.sdf
+MolWt = 73.0938
+HBD = 1
+HBA1 = 2
+logP = 0.7791
+
+LinkerUnique.sdf
+MolWt = 17.0305
+HBD = 1
+HBA1 = 1
+logP = 0.3239
+
+LinkerUnique.sdf
+MolWt = 17.0305
+HBD = 1
+HBA1 = 1
+logP = 0.3239
+
+LinkerUnique.sdf
+MolWt = 60.0553
+HBD = 2
+HBA1 = 3
+logP = 0.4244
+
+LinkerUnique.sdf
+MolWt = 18.0153
+HBD = 1
+HBA1 = 1
+logP = -0.0643
+
+LinkerUnique.sdf
+MolWt = 32.0419
+HBD = 1
+HBA1 = 1
+logP = -0.3915
+
+LinkerUnique.sdf
+MolWt = 0
+HBD = 0
+HBA1 = 0
+logP = 0
+
+LinkerUnique.sdf
+MolWt = 73.0938
+HBD = 1
+HBA1 = 2
+logP = 0.7791
+
+LinkerUnique.sdf
+MolWt = 17.0305
+HBD = 1
+HBA1 = 1
+logP = 0.3239
+
+LinkerUnique.sdf
+MolWt = 17.0305
+HBD = 1
+HBA1 = 1
+logP = 0.3239
+
+LinkerUnique.sdf
+MolWt = 60.0553
+HBD = 2
+HBA1 = 3
+logP = 0.4244
+
+LinkerUnique.sdf
+MolWt = 18.0153
+HBD = 1
+HBA1 = 1
+logP = -0.0643
+
+LinkerUnique.sdf
+MolWt = 32.0419
+HBD = 1
+HBA1 = 1
+logP = -0.3915
+
+LinkerUnique.sdf
+MolWt = 0
+HBD = 0
+HBA1 = 0
+logP = 0
+
+LinkerUnique.sdf
+MolWt = 73.0938
+HBD = 1
+HBA1 = 2
+logP = 0.7791
+
+LinkerUnique.sdf
+MolWt = 17.0305
+HBD = 1
+HBA1 = 1
+logP = 0.3239
+
+LinkerUnique.sdf
+MolWt = 17.0305
+HBD = 1
+HBA1 = 1
+logP = 0.3239
+
+LinkerUnique.sdf
+MolWt = 60.0553
+HBD = 2
+HBA1 = 3
+logP = 0.4244
+
+LinkerUnique.sdf
+MolWt = 18.0153
+HBD = 1
+HBA1 = 1
+logP = -0.0643
+
+LinkerUnique.sdf
+MolWt = 32.0419
+HBD = 1
+HBA1 = 1
+logP = -0.3915
+
+LinkerUnique.sdf
+MolWt = 0
+HBD = 0
+HBA1 = 0
+logP = 0
+
+LinkerUnique.sdf
+MolWt = 73.0938
+HBD = 1
+HBA1 = 2
+logP = 0.7791
+
+LinkerUnique.sdf
+MolWt = 17.0305
+HBD = 1
+HBA1 = 1
+logP = 0.3239
+
+LinkerUnique.sdf
+MolWt = 17.0305
+HBD = 1
+HBA1 = 1
+logP = 0.3239
+
+LinkerUnique.sdf
+MolWt = 60.0553
+HBD = 2
+HBA1 = 3
+logP = 0.4244
+
+LinkerUnique.sdf
+MolWt = 18.0153
+HBD = 1
+HBA1 = 1
+logP = -0.0643
+
+LinkerUnique.sdf
+MolWt = 32.0419
+HBD = 1
+HBA1 = 1
+logP = -0.3915
+
+LinkerUnique.sdf
+MolWt = 0
+HBD = 0
+HBA1 = 0
+logP = 0
+
+LinkerUnique.sdf
+MolWt = 73.0938
+HBD = 1
+HBA1 = 2
+logP = 0.7791
+
+LinkerUnique.sdf
+MolWt = 17.0305
+HBD = 1
+HBA1 = 1
+logP = 0.3239
+
+LinkerUnique.sdf
+MolWt = 17.0305
+HBD = 1
+HBA1 = 1
+logP = 0.3239
+
+LinkerUnique.sdf
+MolWt = 60.0553
+HBD = 2
+HBA1 = 3
+logP = 0.4244
+
+LinkerUnique.sdf
+MolWt = 18.0153
+HBD = 1
+HBA1 = 1
+logP = -0.0643
+
+LinkerUnique.sdf
+MolWt = 32.0419
+HBD = 1
+HBA1 = 1
+logP = -0.3915
+
+LinkerUnique.sdf
+MolWt = 0
+HBD = 0
+HBA1 = 0
+logP = 0
+
+LinkerUnique.sdf
+MolWt = 73.0938
+HBD = 1
+HBA1 = 2
+logP = 0.7791
+
+LinkerUnique.sdf
+MolWt = 17.0305
+HBD = 1
+HBA1 = 1
+logP = 0.3239
+
+LinkerUnique.sdf
+MolWt = 17.0305
+HBD = 1
+HBA1 = 1
+logP = 0.3239
+
+LinkerUnique.sdf
+MolWt = 60.0553
+HBD = 2
+HBA1 = 3
+logP = 0.4244
+
+LinkerUnique.sdf
+MolWt = 18.0153
+HBD = 1
+HBA1 = 1
+logP = -0.0643
+
+LinkerUnique.sdf
+MolWt = 32.0419
+HBD = 1
+HBA1 = 1
+logP = -0.3915
+
+LinkerUnique.sdf
+MolWt = 0
+HBD = 0
+HBA1 = 0
+logP = 0
+
+LinkerUnique.sdf
+MolWt = 73.0938
+HBD = 1
+HBA1 = 2
+logP = 0.7791
+
+LinkerUnique.sdf
+MolWt = 17.0305
+HBD = 1
+HBA1 = 1
+logP = 0.3239
+
+LinkerUnique.sdf
+MolWt = 17.0305
+HBD = 1
+HBA1 = 1
+logP = 0.3239
+
+LinkerUnique.sdf
+MolWt = 60.0553
+HBD = 2
+HBA1 = 3
+logP = 0.4244
+
+LinkerUnique.sdf
+MolWt = 18.0153
+HBD = 1
+HBA1 = 1
+logP = -0.0643
+
+LinkerUnique.sdf
+MolWt = 32.0419
+HBD = 1
+HBA1 = 1
+logP = -0.3915
+
+LinkerUnique.sdf
+MolWt = 0
+HBD = 0
+HBA1 = 0
+logP = 0
+
+LinkerUnique.sdf
+MolWt = 73.0938
+HBD = 1
+HBA1 = 2
+logP = 0.7791
+
+LinkerUnique.sdf
+MolWt = 17.0305
+HBD = 1
+HBA1 = 1
+logP = 0.3239
+
+LinkerUnique.sdf
+MolWt = 17.0305
+HBD = 1
+HBA1 = 1
+logP = 0.3239
+
+LinkerUnique.sdf
+MolWt = 60.0553
+HBD = 2
+HBA1 = 3
+logP = 0.4244
+
+LinkerUnique.sdf
+MolWt = 18.0153
+HBD = 1
+HBA1 = 1
+logP = -0.0643
+
+LinkerUnique.sdf
+MolWt = 32.0419
+HBD = 1
+HBA1 = 1
+logP = -0.3915
+
+LinkerUnique.sdf
+MolWt = 0
+HBD = 0
+HBA1 = 0
+logP = 0
+
+LinkerUnique.sdf
+MolWt = 73.0938
+HBD = 1
+HBA1 = 2
+logP = 0.7791
+
+LinkerUnique.sdf
+MolWt = 17.0305
+HBD = 1
+HBA1 = 1
+logP = 0.3239
+
+LinkerUnique.sdf
+MolWt = 17.0305
+HBD = 1
+HBA1 = 1
+logP = 0.3239
+
+LinkerUnique.sdf
+MolWt = 60.0553
+HBD = 2
+HBA1 = 3
+logP = 0.4244
+
+LinkerUnique.sdf
+MolWt = 18.0153
+HBD = 1
+HBA1 = 1
+logP = -0.0643
+
+LinkerUnique.sdf
+MolWt = 32.0419
+HBD = 1
+HBA1 = 1
+logP = -0.3915
+
+LinkerUnique.sdf
+MolWt = 0
+HBD = 0
+HBA1 = 0
+logP = 0
+
+LinkerUnique.sdf
+MolWt = 73.0938
+HBD = 1
+HBA1 = 2
+logP = 0.7791
+
+LinkerUnique.sdf
+MolWt = 17.0305
+HBD = 1
+HBA1 = 1
+logP = 0.3239
+
+LinkerUnique.sdf
+MolWt = 17.0305
+HBD = 1
+HBA1 = 1
+logP = 0.3239
+
+LinkerUnique.sdf
+MolWt = 60.0553
+HBD = 2
+HBA1 = 3
+logP = 0.4244
+
+LinkerUnique.sdf
+MolWt = 18.0153
+HBD = 1
+HBA1 = 1
+logP = -0.0643
+
+LinkerUnique.sdf
+MolWt = 32.0419
+HBD = 1
+HBA1 = 1
+logP = -0.3915
+
+LinkerUnique.sdf
+MolWt = 0
+HBD = 0
+HBA1 = 0
+logP = 0
+
+LinkerUnique.sdf
+MolWt = 73.0938
+HBD = 1
+HBA1 = 2
+logP = 0.7791
+
+LinkerUnique.sdf
+MolWt = 17.0305
+HBD = 1
+HBA1 = 1
+logP = 0.3239
+
+LinkerUnique.sdf
+MolWt = 17.0305
+HBD = 1
+HBA1 = 1
+logP = 0.3239
+
+LinkerUnique.sdf
+MolWt = 60.0553
+HBD = 2
+HBA1 = 3
+logP = 0.4244
+
+LinkerUnique.sdf
+MolWt = 18.0153
+HBD = 1
+HBA1 = 1
+logP = -0.0643
+
+LinkerUnique.sdf
+MolWt = 32.0419
+HBD = 1
+HBA1 = 1
+logP = -0.3915
+
+LinkerUnique.sdf
+MolWt = 0
+HBD = 0
+HBA1 = 0
+logP = 0
+
+LinkerUnique.sdf
+MolWt = 73.0938
+HBD = 1
+HBA1 = 2
+logP = 0.7791
+
+LinkerUnique.sdf
+MolWt = 17.0305
+HBD = 1
+HBA1 = 1
+logP = 0.3239
+
+LinkerUnique.sdf
+MolWt = 17.0305
+HBD = 1
+HBA1 = 1
+logP = 0.3239
+
+LinkerUnique.sdf
+MolWt = 60.0553
+HBD = 2
+HBA1 = 3
+logP = 0.4244
+
+LinkerUnique.sdf
+MolWt = 18.0153
+HBD = 1
+HBA1 = 1
+logP = -0.0643
+
+LinkerUnique.sdf
+MolWt = 32.0419
+HBD = 1
+HBA1 = 1
+logP = -0.3915
+
+LinkerUnique.sdf
+MolWt = 0
+HBD = 0
+HBA1 = 0
+logP = 0
+
+LinkerUnique.sdf
+MolWt = 73.0938
+HBD = 1
+HBA1 = 2
+logP = 0.7791
+
+LinkerUnique.sdf
+MolWt = 17.0305
+HBD = 1
+HBA1 = 1
+logP = 0.3239
+
+LinkerUnique.sdf
+MolWt = 17.0305
+HBD = 1
+HBA1 = 1
+logP = 0.3239
+
+LinkerUnique.sdf
+MolWt = 60.0553
+HBD = 2
+HBA1 = 3
+logP = 0.4244
+
+LinkerUnique.sdf
+MolWt = 18.0153
+HBD = 1
+HBA1 = 1
+logP = -0.0643
+
+LinkerUnique.sdf
+MolWt = 32.0419
+HBD = 1
+HBA1 = 1
+logP = -0.3915
+
+LinkerUnique.sdf
+MolWt = 0
+HBD = 0
+HBA1 = 0
+logP = 0
+
+LinkerUnique.sdf
+MolWt = 73.0938
+HBD = 1
+HBA1 = 2
+logP = 0.7791
+
+LinkerUnique.sdf
+MolWt = 17.0305
+HBD = 1
+HBA1 = 1
+logP = 0.3239
+
+LinkerUnique.sdf
+MolWt = 17.0305
+HBD = 1
+HBA1 = 1
+logP = 0.3239
+
+LinkerUnique.sdf
+MolWt = 60.0553
+HBD = 2
+HBA1 = 3
+logP = 0.4244
+
+LinkerUnique.sdf
+MolWt = 18.0153
+HBD = 1
+HBA1 = 1
+logP = -0.0643
+
+LinkerUnique.sdf
+MolWt = 32.0419
+HBD = 1
+HBA1 = 1
+logP = -0.3915
+
+LinkerUnique.sdf
+MolWt = 0
+HBD = 0
+HBA1 = 0
+logP = 0
+
+LinkerUnique.sdf
+MolWt = 73.0938
+HBD = 1
+HBA1 = 2
+logP = 0.7791
+
+LinkerUnique.sdf
+MolWt = 17.0305
+HBD = 1
+HBA1 = 1
+logP = 0.3239
+
+LinkerUnique.sdf
+MolWt = 17.0305
+HBD = 1
+HBA1 = 1
+logP = 0.3239
+
+LinkerUnique.sdf
+MolWt = 60.0553
+HBD = 2
+HBA1 = 3
+logP = 0.4244
+
+LinkerUnique.sdf
+MolWt = 18.0153
+HBD = 1
+HBA1 = 1
+logP = -0.0643
+
+LinkerUnique.sdf
+MolWt = 32.0419
+HBD = 1
+HBA1 = 1
+logP = -0.3915
+
+LinkerUnique.sdf
+MolWt = 0
+HBD = 0
+HBA1 = 0
+logP = 0
+
+LinkerUnique.sdf
+MolWt = 73.0938
+HBD = 1
+HBA1 = 2
+logP = 0.7791
+
+LinkerUnique.sdf
+MolWt = 17.0305
+HBD = 1
+HBA1 = 1
+logP = 0.3239
+
+LinkerUnique.sdf
+MolWt = 17.0305
+HBD = 1
+HBA1 = 1
+logP = 0.3239
+
+LinkerUnique.sdf
+MolWt = 60.0553
+HBD = 2
+HBA1 = 3
+logP = 0.4244
+
+LinkerUnique.sdf
+MolWt = 18.0153
+HBD = 1
+HBA1 = 1
+logP = -0.0643
+
+LinkerUnique.sdf
+MolWt = 32.0419
+HBD = 1
+HBA1 = 1
+logP = -0.3915
+
+LinkerUnique.sdf
+MolWt = 0
+HBD = 0
+HBA1 = 0
+logP = 0
+
+LinkerUnique.sdf
+MolWt = 73.0938
+HBD = 1
+HBA1 = 2
+logP = 0.7791
+
+LinkerUnique.sdf
+MolWt = 17.0305
+HBD = 1
+HBA1 = 1
+logP = 0.3239
+
+LinkerUnique.sdf
+MolWt = 17.0305
+HBD = 1
+HBA1 = 1
+logP = 0.3239
+
+LinkerUnique.sdf
+MolWt = 60.0553
+HBD = 2
+HBA1 = 3
+logP = 0.4244
+
+LinkerUnique.sdf
+MolWt = 18.0153
+HBD = 1
+HBA1 = 1
+logP = -0.0643
+
+LinkerUnique.sdf
+MolWt = 32.0419
+HBD = 1
+HBA1 = 1
+logP = -0.3915
+
+LinkerUnique.sdf
+MolWt = 0
+HBD = 0
+HBA1 = 0
+logP = 0
+
+LinkerUnique.sdf
+MolWt = 73.0938
+HBD = 1
+HBA1 = 2
+logP = 0.7791
+
+LinkerUnique.sdf
+MolWt = 17.0305
+HBD = 1
+HBA1 = 1
+logP = 0.3239
+
+LinkerUnique.sdf
+MolWt = 17.0305
+HBD = 1
+HBA1 = 1
+logP = 0.3239
+
+LinkerUnique.sdf
+MolWt = 60.0553
+HBD = 2
+HBA1 = 3
+logP = 0.4244
+
+LinkerUnique.sdf
+MolWt = 18.0153
+HBD = 1
+HBA1 = 1
+logP = -0.0643
+
+LinkerUnique.sdf
+MolWt = 32.0419
+HBD = 1
+HBA1 = 1
+logP = -0.3915
+
+LinkerUnique.sdf
+MolWt = 0
+HBD = 0
+HBA1 = 0
+logP = 0
+
+LinkerUnique.sdf
+MolWt = 73.0938
+HBD = 1
+HBA1 = 2
+logP = 0.7791
+
+LinkerUnique.sdf
+MolWt = 17.0305
+HBD = 1
+HBA1 = 1
+logP = 0.3239
+
+LinkerUnique.sdf
+MolWt = 17.0305
+HBD = 1
+HBA1 = 1
+logP = 0.3239
+
+LinkerUnique.sdf
+MolWt = 60.0553
+HBD = 2
+HBA1 = 3
+logP = 0.4244
+
+LinkerUnique.sdf
+MolWt = 18.0153
+HBD = 1
+HBA1 = 1
+logP = -0.0643
+
+LinkerUnique.sdf
+MolWt = 32.0419
+HBD = 1
+HBA1 = 1
+logP = -0.3915
+
+LinkerUnique.sdf
+MolWt = 0
+HBD = 0
+HBA1 = 0
+logP = 0
+
+LinkerUnique.sdf
+MolWt = 73.0938
+HBD = 1
+HBA1 = 2
+logP = 0.7791
+
+LinkerUnique.sdf
+MolWt = 17.0305
+HBD = 1
+HBA1 = 1
+logP = 0.3239
+
+LinkerUnique.sdf
+MolWt = 17.0305
+HBD = 1
+HBA1 = 1
+logP = 0.3239
+
+LinkerUnique.sdf
+MolWt = 60.0553
+HBD = 2
+HBA1 = 3
+logP = 0.4244
+
+LinkerUnique.sdf
+MolWt = 18.0153
+HBD = 1
+HBA1 = 1
+logP = -0.0643
+
+LinkerUnique.sdf
+MolWt = 32.0419
+HBD = 1
+HBA1 = 1
+logP = -0.3915
+
+LinkerUnique.sdf
+MolWt = 0
+HBD = 0
+HBA1 = 0
+logP = 0
+
+LinkerUnique.sdf
+MolWt = 73.0938
+HBD = 1
+HBA1 = 2
+logP = 0.7791
+
+LinkerUnique.sdf
+MolWt = 17.0305
+HBD = 1
+HBA1 = 1
+logP = 0.3239
+
+LinkerUnique.sdf
+MolWt = 17.0305
+HBD = 1
+HBA1 = 1
+logP = 0.3239
+
+b-problem-brick.sdf
+MolWt = 204.616
+HBD = 0
+HBA1 = 3
+logP = 1.9309
+
+LinkerUnique.sdf
+MolWt = 60.0553
+HBD = 2
+HBA1 = 3
+logP = 0.4244
+
+LinkerUnique.sdf
+MolWt = 18.0153
+HBD = 1
+HBA1 = 1
+logP = -0.0643
+
+LinkerUnique.sdf
+MolWt = 32.0419
+HBD = 1
+HBA1 = 1
+logP = -0.3915
+
+LinkerUnique.sdf
+MolWt = 0
+HBD = 0
+HBA1 = 0
+logP = 0
+
+LinkerUnique.sdf
+MolWt = 73.0938
+HBD = 1
+HBA1 = 2
+logP = 0.7791
+
+LinkerUnique.sdf
+MolWt = 17.0305
+HBD = 1
+HBA1 = 1
+logP = 0.3239
+
+LinkerUnique.sdf
+MolWt = 17.0305
+HBD = 1
+HBA1 = 1
+logP = 0.3239
+
+b-problem-brick.sdf
+MolWt = 204.616
+HBD = 0
+HBA1 = 3
+logP = 1.9309
+
+LinkerUnique.sdf
+MolWt = 60.0553
+HBD = 2
+HBA1 = 3
+logP = 0.4244
+
+LinkerUnique.sdf
+MolWt = 18.0153
+HBD = 1
+HBA1 = 1
+logP = -0.0643
+
+LinkerUnique.sdf
+MolWt = 32.0419
+HBD = 1
+HBA1 = 1
+logP = -0.3915
+
+LinkerUnique.sdf
+MolWt = 0
+HBD = 0
+HBA1 = 0
+logP = 0
+
+LinkerUnique.sdf
+MolWt = 73.0938
+HBD = 1
+HBA1 = 2
+logP = 0.7791
+
+LinkerUnique.sdf
+MolWt = 17.0305
+HBD = 1
+HBA1 = 1
+logP = 0.3239
+
+LinkerUnique.sdf
+MolWt = 17.0305
+HBD = 1
+HBA1 = 1
+logP = 0.3239
+
+BrickUnique.sdf
+MolWt = 86.1356
+HBD = 2
+HBA1 = 2
+logP = -0.1632
+
+BrickUnique.sdf
+MolWt = 143.144
+HBD = 0
+HBA1 = 5
+logP = 0.7954
+
+BrickUnique.sdf
+MolWt = 190.202
+HBD = 0
+HBA1 = 4
+logP = 1.1353
+
+BrickUnique.sdf
+MolWt = 204.616
+HBD = 0
+HBA1 = 3
+logP = 1.9309
+
+BrickUnique.sdf
+MolWt = 68.074
+HBD = 0
+HBA1 = 0
+logP = 1.2796
+
+BrickUnique.sdf
+MolWt = 261.24
+HBD = 1
+HBA1 = 8
+logP = 1.7797
+
+BrickUnique.sdf
+MolWt = 120.112
+HBD = 0
+HBA1 = 3
+logP = 0.1243
+
+BrickUnique.sdf
+MolWt = 78.1118
+HBD = 0
+HBA1 = 0
+logP = 1.6866
+
+BrickUnique.sdf
+MolWt = 114.142
+HBD = 0
+HBA1 = 2
+logP = 0.9446
+
+BrickUnique.sdf
+MolWt = 87.1204
+HBD = 1
+HBA1 = 2
+logP = -0.065
+
+LinkerUnique.sdf
+MolWt = 60.0553
+HBD = 2
+HBA1 = 3
+logP = 0.4244
+
+LinkerUnique.sdf
+MolWt = 18.0153
+HBD = 1
+HBA1 = 1
+logP = -0.0643
+
+LinkerUnique.sdf
+MolWt = 32.0419
+HBD = 1
+HBA1 = 1
+logP = -0.3915
+
+LinkerUnique.sdf
+MolWt = 0
+HBD = 0
+HBA1 = 0
+logP = 0
+
+LinkerUnique.sdf
+MolWt = 73.0938
+HBD = 1
+HBA1 = 2
+logP = 0.7791
+
+LinkerUnique.sdf
+MolWt = 17.0305
+HBD = 1
+HBA1 = 1
+logP = 0.3239
+
+LinkerUnique.sdf
+MolWt = 17.0305
+HBD = 1
+HBA1 = 1
+logP = 0.3239
+
+BrickUnique.sdf
+MolWt = 86.1356
+HBD = 2
+HBA1 = 2
+logP = -0.1632
+
+BrickUnique.sdf
+MolWt = 143.144
+HBD = 0
+HBA1 = 5
+logP = 0.7954
+
+BrickUnique.sdf
+MolWt = 190.202
+HBD = 0
+HBA1 = 4
+logP = 1.1353
+
+BrickUnique.sdf
+MolWt = 204.616
+HBD = 0
+HBA1 = 3
+logP = 1.9309
+
+BrickUnique.sdf
+MolWt = 68.074
+HBD = 0
+HBA1 = 0
+logP = 1.2796
+
+BrickUnique.sdf
+MolWt = 261.24
+HBD = 1
+HBA1 = 8
+logP = 1.7797
+
+BrickUnique.sdf
+MolWt = 120.112
+HBD = 0
+HBA1 = 3
+logP = 0.1243
+
+BrickUnique.sdf
+MolWt = 78.1118
+HBD = 0
+HBA1 = 0
+logP = 1.6866
+
+BrickUnique.sdf
+MolWt = 114.142
+HBD = 0
+HBA1 = 2
+logP = 0.9446
+
+BrickUnique.sdf
+MolWt = 87.1204
+HBD = 1
+HBA1 = 2
+logP = -0.065
+
+LinkerUnique.sdf
+MolWt = 60.0553
+HBD = 2
+HBA1 = 3
+logP = 0.4244
+
+LinkerUnique.sdf
+MolWt = 18.0153
+HBD = 1
+HBA1 = 1
+logP = -0.0643
+
+LinkerUnique.sdf
+MolWt = 32.0419
+HBD = 1
+HBA1 = 1
+logP = -0.3915
+
+LinkerUnique.sdf
+MolWt = 0
+HBD = 0
+HBA1 = 0
+logP = 0
+
+LinkerUnique.sdf
+MolWt = 73.0938
+HBD = 1
+HBA1 = 2
+logP = 0.7791
+
+LinkerUnique.sdf
+MolWt = 17.0305
+HBD = 1
+HBA1 = 1
+logP = 0.3239
+
+LinkerUnique.sdf
+MolWt = 17.0305
+HBD = 1
+HBA1 = 1
+logP = 0.3239
+
+BrickUnique.sdf
+MolWt = 86.1356
+HBD = 2
+HBA1 = 2
+logP = -0.1632
+
+BrickUnique.sdf
+MolWt = 143.144
+HBD = 0
+HBA1 = 5
+logP = 0.7954
+
+BrickUnique.sdf
+MolWt = 190.202
+HBD = 0
+HBA1 = 4
+logP = 1.1353
+
+BrickUnique.sdf
+MolWt = 204.616
+HBD = 0
+HBA1 = 3
+logP = 1.9309
+
+BrickUnique.sdf
+MolWt = 68.074
+HBD = 0
+HBA1 = 0
+logP = 1.2796
+
+BrickUnique.sdf
+MolWt = 261.24
+HBD = 1
+HBA1 = 8
+logP = 1.7797
+
+BrickUnique.sdf
+MolWt = 120.112
+HBD = 0
+HBA1 = 3
+logP = 0.1243
+
+BrickUnique.sdf
+MolWt = 78.1118
+HBD = 0
+HBA1 = 0
+logP = 1.6866
+
+BrickUnique.sdf
+MolWt = 114.142
+HBD = 0
+HBA1 = 2
+logP = 0.9446
+
+BrickUnique.sdf
+MolWt = 87.1204
+HBD = 1
+HBA1 = 2
+logP = -0.065
+
+LinkerUnique.sdf
+MolWt = 60.0553
+HBD = 2
+HBA1 = 3
+logP = 0.4244
+
+LinkerUnique.sdf
+MolWt = 18.0153
+HBD = 1
+HBA1 = 1
+logP = -0.0643
+
+LinkerUnique.sdf
+MolWt = 32.0419
+HBD = 1
+HBA1 = 1
+logP = -0.3915
+
+LinkerUnique.sdf
+MolWt = 0
+HBD = 0
+HBA1 = 0
+logP = 0
+
+LinkerUnique.sdf
+MolWt = 73.0938
+HBD = 1
+HBA1 = 2
+logP = 0.7791
+
+LinkerUnique.sdf
+MolWt = 17.0305
+HBD = 1
+HBA1 = 1
+logP = 0.3239
+
+LinkerUnique.sdf
+MolWt = 17.0305
+HBD = 1
+HBA1 = 1
+logP = 0.3239
+
+BrickUnique.sdf
+MolWt = 86.1356
+HBD = 2
+HBA1 = 2
+logP = -0.1632
+
+BrickUnique.sdf
+MolWt = 143.144
+HBD = 0
+HBA1 = 5
+logP = 0.7954
+
+BrickUnique.sdf
+MolWt = 190.202
+HBD = 0
+HBA1 = 4
+logP = 1.1353
+
+BrickUnique.sdf
+MolWt = 204.616
+HBD = 0
+HBA1 = 3
+logP = 1.9309
+
+BrickUnique.sdf
+MolWt = 68.074
+HBD = 0
+HBA1 = 0
+logP = 1.2796
+
+BrickUnique.sdf
+MolWt = 261.24
+HBD = 1
+HBA1 = 8
+logP = 1.7797
+
+BrickUnique.sdf
+MolWt = 120.112
+HBD = 0
+HBA1 = 3
+logP = 0.1243
+
+BrickUnique.sdf
+MolWt = 78.1118
+HBD = 0
+HBA1 = 0
+logP = 1.6866
+
+BrickUnique.sdf
+MolWt = 114.142
+HBD = 0
+HBA1 = 2
+logP = 0.9446
+
+BrickUnique.sdf
+MolWt = 87.1204
+HBD = 1
+HBA1 = 2
+logP = -0.065
+
